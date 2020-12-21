@@ -1,0 +1,84 @@
+
+
+
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"todo_list",
+        "dbuser":"root",
+        "dbpass":"linuxlinux",
+        "web":"http://localhost:8081/",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"mase.cesnuria.com",
+        "dbname":"MaSe_todo_list",
+        "dbuser":"MaSe_root",
+        "dbpass":"linuxlinux",
+        "web":"http://mase.cesnuria.com/m7/todouf2/",
+        "root":"/m7/todouf2/"
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

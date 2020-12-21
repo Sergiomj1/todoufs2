@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+
+RewriteEngine On 
+
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -d [OR]
+RewriteCond %{REQUEST_FILENAME} -f
+
+# RewriteRule ^/(.*) http://mase.cesnuria.com/m7/todouf2/$1 [NC,L,R=301]
+RewriteRule ^.*$ - [NC,L]
+RewriteRule ^.*$ index.php [NC,L]
+

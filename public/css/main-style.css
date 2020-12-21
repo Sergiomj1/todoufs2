@@ -1,0 +1,82 @@
+.titulo-principal {
+  margin: 100px 0px;
+}
+
+.titulo-principal h1 {
+  font-size: 9em;
+}
+
+.inicio-links a {
+  font-size: 4em;
+  color: #808000;
+}
+
+.inicio-links a:hover {
+  color: #808000;
+  text-decoration: none;
+}
+
+.form label {
+  font-size: 24px;
+}
+
+.register{
+
+  margin-top: 20px;
+}
+
+.form input,
+.form textarea {
+  width: 100%;
+}
+
+.descripcion {
+  width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+}
+
+
+.imagefont{
+
+  background-image: url("//d9hhrg4mnvzow.cloudfront.net/try.wrike.com/web-based-task-management-software/57d95d28-background-26-original-1.svg");
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+
+}
+
+
+form{
+
+  line-height: 3;
+}
+
+.cabecera{
+
+  background: #006607;
+  color:white;
+
+}
+
+.ennav{
+
+  color: #808000;
+
+}
+
+
+.enlaces{
+
+  color: white;
+
+}
+
+.emptyspace{
+
+  height: 15px;
+}
+
